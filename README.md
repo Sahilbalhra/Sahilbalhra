@@ -31,7 +31,7 @@
 
 <a href="https://github.com/Sahilbalhra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahilbalhra&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbalhra8&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbalhra&theme=buefy&layout=compact" />
 </a>
 
 <br/>
