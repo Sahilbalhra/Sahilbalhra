@@ -6,6 +6,9 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at Maharshi Dayanand University Rohtak Haryana.
 - 🌱 &nbsp; Learning more about Web Devlopment and React Native.
 
+ ### Skills
+ [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,expressjs,mongodb,js,html,css,java,git,tailwind,bootstrap,materialui,redux,mysql,firebase)]
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
