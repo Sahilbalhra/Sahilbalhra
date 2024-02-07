@@ -34,13 +34,13 @@
 
 
 ### My Github Stats
-<div  align="left">
- <a href="http://www.github.com/Sahilbalhra"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilbalhra&stroke=1c1917&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=1c1917&currStreakLabel=3382ed&sideNums=1c1917&sideLabels=1c1917&dates=1c1917&hide_border=true" /></a>
-
 <a href="https://github.com/Sahilbalhra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahilbalhra&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbalhra&theme=buefy&layout=compact" />
 </a>
+
+<div  align="left">
+ <a href="http://www.github.com/Sahilbalhra"><img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilbalhra&stroke=1c1917&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=1c1917&currStreakLabel=3382ed&sideNums=1c1917&sideLabels=1c1917&dates=1c1917&hide_border=true" /></a>
 
 <br/>
 
