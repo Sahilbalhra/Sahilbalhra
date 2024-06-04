@@ -42,6 +42,12 @@
 <div  align="left">
  <a href="http://www.github.com/Sahilbalhra"><img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilbalhra&stroke=1c1917&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=1c1917&currStreakLabel=3382ed&sideNums=1c1917&sideLabels=1c1917&dates=1c1917&hide_border=true" /></a>
 
+ <p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
 
  ![Sahil Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahilbalhra&custom_title=Sahil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
