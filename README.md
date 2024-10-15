@@ -6,9 +6,9 @@
 ![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,expressjs,mongodb,js,html,css,java,git,tailwind,bootstrap,materialui,redux,mysql,firebase)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahilbalhra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sahilbalhra&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbalhra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilbalhra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbalhra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sahilbalhra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
